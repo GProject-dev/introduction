@@ -1,6 +1,6 @@
 ```c
 #include <stdio.h>
-
+void move(int *xpos, int *ypos);
 int main(void)
 {
 	int x =10;
