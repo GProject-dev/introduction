@@ -1,4 +1,3 @@
-```c
 #include <stdio.h>
 void move(int *xpos, int *ypos);
 int main(void)
@@ -19,4 +18,3 @@ void move(int *xpos, int *ypos)
 
 
 }
-```
