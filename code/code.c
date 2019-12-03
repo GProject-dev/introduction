@@ -13,8 +13,8 @@ int main(void)
 
 void move(int *xpos, int *ypos)
 {
-	*xpos = *xpos + 1;
-	*ypos = *ypos + 1;
+	*xpos = *xpos + 5;
+	*ypos = *ypos + 6;
 
 
 }
